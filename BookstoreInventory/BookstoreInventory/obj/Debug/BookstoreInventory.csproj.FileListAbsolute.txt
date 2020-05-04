@@ -1,0 +1,12 @@
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\bin\Debug\BookstoreInventory.exe.config
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\bin\Debug\BookstoreInventory.exe
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\bin\Debug\BookstoreInventory.pdb
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.csprojAssemblyReference.cache
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.frmAccessID.resources
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.Properties.Resources.resources
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.csproj.GenerateResource.cache
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.csproj.CoreCompileInputs.cache
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.exe
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.pdb
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.frmPinIDEntryForm.resources
+C:\Users\AlexM\source\repos\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.frmTransactionForm.resources
